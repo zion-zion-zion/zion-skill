@@ -1,0 +1,2 @@
+# zion-skill
+skill sync
